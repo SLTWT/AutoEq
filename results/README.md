@@ -10,6 +10,9 @@ This list has 5173 headphone models covered, but if your headphone is missing, y
 it yourself by following this guide:
 [Equalizing Headphones the Easy Way](https://medium.com/@jaakkopasanen/make-your-headphones-sound-supreme-1cbd567832a9)
 
+Headphone ranking based on 🐔 Neutral Targets preference scores can be found in the
+[Headphone Ranking](./RANKING%20🐔%20Neutral%20Targets.md).
+
 Headphone ranking based on Harman listener preference scores can be found in the
 [Headphone Ranking](./RANKING.md).
 
