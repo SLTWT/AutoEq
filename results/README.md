@@ -19,6 +19,9 @@ Headphone ranking based on Shure SRH1840 Targets preference scores can be found 
 Headphone ranking based on Sennheiser HD 600 Targets preference scores can be found in the
 [Headphone Ranking](./RANKING%20-%20Sennheiser%20HD%20600.md).
 
+Headphone ranking based on Harman over-ear 2018 without bass Targets preference scores can be found in the
+[Headphone Ranking](./RANKING%20-%20Harman%20over-ear%202018%20without%20bass.md).
+
 Headphone ranking based on Harman listener preference scores can be found in the
 [Headphone Ranking](./RANKING.md).
 
