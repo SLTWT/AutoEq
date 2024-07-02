@@ -13,6 +13,12 @@ it yourself by following this guide:
 Headphone ranking based on 🐔 Neutral Targets preference scores can be found in the
 [Headphone Ranking](./RANKING%20🐔%20Neutral%20Targets.md).
 
+Headphone ranking based on Shure SRH1840 Targets preference scores can be found in the
+[Headphone Ranking](./RANKING%20-%20Shure%20SRH1840.md).
+
+Headphone ranking based on Sennheiser HD 600 Targets preference scores can be found in the
+[Headphone Ranking](./RANKING%20-%20Sennheiser%20HD%20600.md).
+
 Headphone ranking based on Harman listener preference scores can be found in the
 [Headphone Ranking](./RANKING.md).
 
