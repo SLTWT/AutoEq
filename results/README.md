@@ -10,6 +10,9 @@ This list has 5173 headphone models covered, but if your headphone is missing, y
 it yourself by following this guide:
 [Equalizing Headphones the Easy Way](https://medium.com/@jaakkopasanen/make-your-headphones-sound-supreme-1cbd567832a9)
 
+Headphone ranking based on KEMAR DF (KB50xx) (8dB Tilt) Targets preference scores can be found in the
+[Headphone Ranking](./RANKING%20-%20KEMAR%20DF%20(KB50xx)%20(8dB%20Tilt).md).
+
 Headphone ranking based on 🐔 Neutral Targets preference scores can be found in the
 [Headphone Ranking](./RANKING%20🐔%20Neutral%20Targets.md).
 
