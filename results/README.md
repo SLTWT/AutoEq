@@ -13,6 +13,9 @@ it yourself by following this guide:
 Headphone ranking based on Moondrop Para 🔴 Pads Targets preference scores can be found in the
 [Headphone Ranking](./RANKING%20-%20Moondrop%20Para%20%F0%9F%94%B4%20Pads.md).
 
+Headphone ranking based on GoldPlanar GL600 (Mesh Pads, no front damping) Targets preference scores can be found in the
+[Headphone Ranking](./RANKING%20-%20GoldPlanar%20GL600%20(Mesh%20Pads%2C%20no%20front%20damping).md).
+
 Headphone ranking based on KEMAR DF (KB50xx) (8dB Tilt) Targets preference scores can be found in the
 [Headphone Ranking](./RANKING%20-%20KEMAR%20DF%20(KB50xx)%20(8dB%20Tilt).md).
 
