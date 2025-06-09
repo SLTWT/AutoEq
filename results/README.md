@@ -10,33 +10,6 @@ This list has 5173 headphone models covered, but if your headphone is missing, y
 it yourself by following this guide:
 [Equalizing Headphones the Easy Way](https://medium.com/@jaakkopasanen/make-your-headphones-sound-supreme-1cbd567832a9)
 
-Headphone ranking based on Moondrop Para 🔴 Pads Targets preference scores can be found in the
-[Headphone Ranking](./RANKING%20-%20Moondrop%20Para%20%F0%9F%94%B4%20Pads.md).
-
-Headphone ranking based on GoldPlanar GL600 (Mesh Pads, no front damping) Targets preference scores can be found in the
-[Headphone Ranking](./RANKING%20-%20GoldPlanar%20GL600%20(Mesh%20Pads%2C%20no%20front%20damping).md).
-
-Headphone ranking based on KEMAR DF (KB50xx) (8dB Tilt) Targets preference scores can be found in the
-[Headphone Ranking](./RANKING%20-%20KEMAR%20DF%20(KB50xx)%20(8dB%20Tilt).md).
-
-Headphone ranking based on 🐔 Neutral Targets preference scores can be found in the
-[Headphone Ranking](./RANKING%20🐔%20Neutral%20Targets.md).
-
-Headphone ranking based on Shure SRH1840 Targets preference scores can be found in the
-[Headphone Ranking](./RANKING%20-%20Shure%20SRH1840.md).
-
-Headphone ranking based on Average of HD600 + SRH1840 Targets preference scores can be found in the
-[Headphone Ranking](./RANKING%20-%20Average%20of%20HD600%20%2B%20SRH1840.md).
-
-Headphone ranking based on Sennheiser HD 600 Targets preference scores can be found in the
-[Headphone Ranking](./RANKING%20-%20Sennheiser%20HD%20600.md).
-
-Headphone ranking based on Harman over-ear 2018 without bass Targets preference scores can be found in the
-[Headphone Ranking](./RANKING%20-%20Harman%20over-ear%202018%20without%20bass.md).
-
-Headphone ranking based on HD572A EQ 1 Targets preference scores can be found in the
-[Headphone Ranking](./RANKING%20-%20HD572A%20EQ%201.md).
-
 Headphone ranking based on Harman listener preference scores can be found in the
 [Headphone Ranking](./RANKING.md).
 
