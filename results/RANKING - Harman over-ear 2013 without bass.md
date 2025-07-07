@@ -14,7 +14,7 @@ other databases and systems are not included because they are not compatible wit
 preference scoring developed by Sean Olive et al.
 
 ## Over-ear Headphones    
-| Name                                                                                                                                                                          |   Score |   STD (dB) |   Slope |
+| Harman over-ear 2013 without bass                                                                                                                                                                          |   Score |   STD (dB) |   Slope |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|------------|---------|
 | [Sennheiser HE 90 Orpheus](./oratory1990/over-ear/Sennheiser%20HE%2090%20Orpheus)                                                                                             |      99 |       1.01 |    0.17 |
 | [AKG K612](./oratory1990/over-ear/AKG%20K612)                                                                                                                                 |      94 |       1.46 |   -0.13 |
